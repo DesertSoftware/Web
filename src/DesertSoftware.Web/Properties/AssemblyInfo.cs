@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DesertSoftware.Web")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("DesertSoftware Web")]
+[assembly: AssemblyDescription("A few light weight classes for ASP.Net MVC web applications")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("DesertSoftware")]
 [assembly: AssemblyProduct("DesertSoftware.Web")]
-[assembly: AssemblyCopyright("Copyright ©  2013")]
+[assembly: AssemblyCopyright("Copyright © 2013 Desert Software Solutions Inc")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
